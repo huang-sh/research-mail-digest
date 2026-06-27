@@ -1,0 +1,5 @@
+# One source URL per line. Currently supports RSS/Atom URLs.
+# Empty lines and comments are ignored.
+# Add sources only after the user provides or approves them.
+https://www.nature.com/nature.rss
+https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science

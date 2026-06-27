@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Mail Digest"
+  short_description: "筛选研究信息源并生成邮件推送"
+  default_prompt: "Use $research-mail-digest to summarize selected research sources and email a digest to me."
